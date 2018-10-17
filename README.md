@@ -1,7 +1,7 @@
 # Write to file plugin for webpack(v3)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 
-This is a simple webpack plugin for writing data to file.
+This is a simple webpack plugin for writing data to file. And there is a similar [plugin](https://github.com/Gyumeijie/write-to-file-webpack) for webpack v4.
 
 # Features
 1. support creating directory recursively
