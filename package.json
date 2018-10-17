@@ -1,0 +1,27 @@
+{
+  "name": "write-file-webpack",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Gyumeijie/write-file-webpack.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack v3",
+    "write",
+    "file",
+    "plugin",
+    "webpack-plugin"
+  ],
+  "scripts": {
+    "start": "webpack --config example/webpack.config.js"
+  },
+  "author": "Gyumeijie",
+  "license": "MIT",
+  "homepage": "https://github.com/Gyumeijie/write-file-webpack#readme",
+  "devDependencies": {
+    "webpack": "^3.6.0"
+  }
+}
